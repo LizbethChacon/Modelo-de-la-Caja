@@ -1,0 +1,17 @@
+div{
+	border: 10px solid #8a2be2;
+	padding: 30px 50px 40px 30px;
+	background-color: #8a2be2;
+	margin: 100px 50px 100px 50px;
+	background: #ffe4c4;
+}
+
+h1{ 
+	font-size: 20px;
+	background-color: white;
+	margin: 10px,;
+	text-align: center; 
+	border: 2px dashed green;
+
+ }
+
